@@ -1,3 +1,5 @@
+`Python 3.8.11`
+
 The repository consists of the [main](src/main.py) and [preprocessing](src/preprocessing.py) 
 scripts to run conjugacy test. 
 
